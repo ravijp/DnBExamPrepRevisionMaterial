@@ -3,9 +3,9 @@
 A structured, exam-focused revision repository for the **DNB Radiodiagnosis Final Theory** examination
 (4 papers x 100 marks; 10 short-note questions of 10 marks each per paper).
 
-> **Status:** Paper I -> **Musculoskeletal fully built** (all 10 topics: full reading prose +
-> complete written answers + verified images). **Head & Neck in progress** (priority #2).
-> Then Neuroradiology, Endocrine, Breast; Papers II-IV to follow.
+> **Status:** Paper I -> **Musculoskeletal** (10 topics) and **Head & Neck** (7 topics) fully
+> built (full reading prose + complete written answers + verified images). **Neuroradiology in
+> progress** (10 topics). Then Endocrine, Breast; Papers II-IV to follow.
 
 ## How this repo is organised
 

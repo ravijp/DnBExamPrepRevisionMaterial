@@ -32,10 +32,9 @@ paper-1-musculoskeletal/           <- Paper I → Musculoskeletal (10 topics) �
       images.md                    <- manifest: source URL, license, intended finding, verified?
 ```
 
-Paper I status: **Musculoskeletal — DONE** (all 10 topics, full standard). **Head & Neck —
-in progress** (next), then Neuroradiology, Endocrine, Breast. Papers II–IV: pending (unscored).
-H&N folder: `paper-1-head-neck/` with topics 01-orbit, 02-sinonasal, 03-temporal-bone,
-04-neck-spaces, 05-larynx-pharynx-staging, 06-congenital-neck, 07-maxillofacial-dental-salivary.
+Paper I status: **Musculoskeletal — DONE** (10 topics). **Head & Neck — DONE** (7 topics,
+`paper-1-head-neck/`). **Neuroradiology — in progress** (10 topics, `paper-1-neuroradiology/`).
+Then Endocrine, Breast. Papers II–IV: pending (unscored).
 
 ## File-format conventions (match existing files exactly)
 
