@@ -1,0 +1,58 @@
+[
+  {
+    "filename": "lodwick-grades-decision-tree.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2125/8854272/6278b4e7133c/256_2021_3868_Fig1_HTML.jpg",
+    "finding": "Lodwick growth-grade decision tree (IA, IB, IC, II, III) with the descriptor sequence",
+    "license": "CC BY 4.0 (open access)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8854272/"
+  },
+  {
+    "filename": "lodwick-descriptors-radiographs.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2125/8854272/53041da3a6cb/256_2021_3868_Fig2_HTML.jpg",
+    "finding": "Radiographic examples of the Lodwick descriptors (margin, cortical penetration, sclerotic rim, expanded shell)",
+    "license": "CC BY 4.0 (open access)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8854272/"
+  },
+  {
+    "filename": "periosteal-solid-osteoid-osteoma.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5299/7475123/aa72ef30c8e9/gr3.jpg",
+    "finding": "Solid (non-aggressive) periosteal reaction — tibial osteoid osteoma",
+    "license": "open access (PMC)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7475123/"
+  },
+  {
+    "filename": "periosteal-onionskin-ewing.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5299/7475123/60cb52baab3a/gr6.jpg",
+    "finding": "Lamellated onion-skin periosteal reaction — diaphyseal Ewing sarcoma",
+    "license": "open access (PMC)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7475123/"
+  },
+  {
+    "filename": "periosteal-sunburst-osteosarcoma.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5299/7475123/18e92120ab8c/gr10.jpg",
+    "finding": "Sunburst (divergent spiculated) periosteal reaction — osteosarcoma",
+    "license": "open access (PMC)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7475123/"
+  },
+  {
+    "filename": "location-map-bone-lesions.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9fa3/5732632/5156db2ed4d6/ij9-2-e46-g005.jpg",
+    "finding": "Diagram mapping common bone lesions to location (epiphysis/metaphysis/diaphysis; central/eccentric/cortical)",
+    "license": "open access (PMC)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5732632/"
+  },
+  {
+    "filename": "gct-distal-radius-radiograph.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a25a/2989147/9c74f4a660d8/IJOrtho-41-91-g002.jpg",
+    "finding": "Giant cell tumour of distal radius — eccentric expansile lytic subarticular lesion with cortical erosion (AP and lateral)",
+    "license": "open access (PMC)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2989147/"
+  },
+  {
+    "filename": "bone-tumour-mri-soft-tissue-extension.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a25a/2989147/0fa02ea6ba36/IJOrtho-41-91-g006.jpg",
+    "finding": "CT and sagittal MRI of a giant cell tumour showing cortical destruction and soft-tissue/joint extension (local staging role of MRI)",
+    "license": "open access (PMC)",
+    "source_page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2989147/"
+  }
+]

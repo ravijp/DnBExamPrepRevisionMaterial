@@ -60,9 +60,15 @@ Papers II–IV: pending (tracker not yet scored).
 
 - Stored per-topic in `<topic>/images/`, logged in `<topic>/images/images.md`.
 - Manifest columns: filename · source URL · license · finding it is meant to show · `verified?`.
-- Images are **downloaded**, not generated. Claude cannot visually confirm a downloaded file
-  truly shows the intended finding — every image starts `verified? = NO`; the owner spot-checks.
-- Owner has accepted responsibility for clearing image copyright before any redistribution.
+- Images are **downloaded**, not generated. **Embed every image inline** with
+  `![alt](images/file)` so it renders in the GitHub markdown UI — avoid broken/missing links.
+- **Copyright is not a concern**: the repo is private and for the owner's personal exam study
+  only. Prefer the most *correct* image (Radiopaedia, PMC open-access, textbook figures) —
+  quality over licence.
+- **Verify visually**: read each downloaded image (the Read tool renders it) and confirm it
+  shows the stated finding; set `verified? = YES` when confirmed, else leave `NO` with a note.
+- Reusable downloader: `uv run scripts/fetch_images.py <topic_dir> <sources.json>`
+  (source lists live in `scripts/sources/`). It downloads files and rebuilds `images.md`.
 
 ## Prioritisation logic
 
@@ -92,4 +98,3 @@ Status, Priority, Completeness), **Dashboard** (per-category counts / % done),
 **Sources & Method** (how weights were derived + caveats). The roll-up treats blank completeness
 as a full gap of 10 — meaningful only for the scored Paper I rows; ignore the inflated
 Paper II–IV priorities until those are scored.
-```
