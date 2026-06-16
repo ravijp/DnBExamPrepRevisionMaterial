@@ -1,5 +1,3 @@
-I have the exact citations and the established style. The "Previously asked (NBE)" items to preserve verbatim are the two in questions.md. Now I'll write the full reading.md prose. Returning ONLY the markdown.
-
 # Bone-forming & Cartilage Tumours
 
 > Osteosarcoma, Ewing sarcoma and the cartilage tumours are recurrent named-entity questions in MSK. The examiner wants a confident enumeration framework first, then a disciplined modality-wise description with the correct buzzwords, and a clear rule for separating benign from malignant cartilage lesions. This is scaffolding to study alongside the actual films — confirm every plate against a textbook atlas.

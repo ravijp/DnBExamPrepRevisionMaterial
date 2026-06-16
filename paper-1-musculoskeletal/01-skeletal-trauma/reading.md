@@ -1,7 +1,3 @@
-I have the existing scaffold. There are no real "Previously asked (NBE)" citations provided for this topic — the existing questions.md has only practice questions. My task is to write the COMPLETE reading.md as full revision prose. Let me check whether any other topic's reading.md is more "full prose" to match the richer target format described in the prompt.
-
-I have enough to write the complete reading.md. Returning only the markdown.
-
 # Skeletal Trauma — Spine, Pelvis, Appendicular
 
 > Frame every answer the same way: **mechanism → stability → classification → role of each modality → complications.** In skeletal trauma the marks live in the *classification framework* and in the *imaging algorithm* (which modality, in what order, looking for what). XR is the screening/first-line tool; **CT is the work-horse for bony detail, complex/comminuted fractures and surgical planning; MRI answers the soft-tissue questions** — cord, ligaments, marrow oedema, and the radiographically occult fracture. Always state explicitly where a modality's role is limited.

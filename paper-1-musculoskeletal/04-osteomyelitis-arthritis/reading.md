@@ -1,5 +1,3 @@
-The existing files contain no "Previously asked (NBE)" citations — only practice questions. The task gives me no real citations either, so I must not fabricate any. The existing reading.md is terse; my task is to write the FULL readable prose version. Here is the complete reading.md content.
-
 # Osteomyelitis & Septic / Granulomatous Arthritis
 
 Bone and joint infection is a high-yield MSK topic because it tests a candidate's grasp of *modality sequencing* (why the radiograph is normal early and what to do about it), the descriptive vocabulary of chronic infection (sequestrum/involucrum/cloaca), and several classic discriminations (osteomyelitis vs neuropathic foot, spinal TB vs pyogenic spondylodiscitis, septic arthritis vs transient synovitis). The marks live in a clean framework followed by ordered, modality-wise findings — so build the scaffold first, then hang the imaging on it.
