@@ -32,9 +32,12 @@ paper-1-musculoskeletal/           <- Paper I → Musculoskeletal (10 topics) �
       images.md                    <- manifest: source URL, license, intended finding, verified?
 ```
 
-Paper I status: **Musculoskeletal — DONE** (10 topics). **Head & Neck — DONE** (7 topics,
-`paper-1-head-neck/`). **Neuroradiology — in progress** (10 topics, `paper-1-neuroradiology/`).
-Then Endocrine, Breast. Papers II–IV: pending (unscored).
+**Paper I — COMPLETE** (32 topics, all to full standard): Musculoskeletal (`paper-1-musculoskeletal/`, 10),
+Head & Neck (`paper-1-head-neck/`, 7), Neuroradiology (`paper-1-neuroradiology/`, 10),
+Endocrine (`paper-1-endocrine/`, 3), Breast (`paper-1-breast/`, 2).
+**Papers II–IV: pending** — tracker not yet scored for them, so score those rows before prioritising
+the build. Same pipeline applies: scaffold folders → Workflow authors files directly (avoids mojibake)
+→ adversarial fact-check → source/verify PMC images via `fetch_images.py` → commit per category.
 
 ## File-format conventions (match existing files exactly)
 
